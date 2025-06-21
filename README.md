@@ -10,26 +10,46 @@ CSS Modules (or regular CSS)
 Live Demo Link (coming soon)
 
 🧱 Folder Structure
-medicare-companion/
-├── public/
+
+medicare-companion/ 
+
+├── public/ 
+
 │   └── index.html
 ├── src/
+
 │   ├── assets/
+
 │   │   └── logo.png               # App Logo
+
 │   ├── components/
+
 │   │   ├── Sidebar.jsx            # Left navigation panel
+
 │   │   ├── Header.jsx             # Top header with user context
+
 │   │   ├── RoleSelection.jsx      # Welcome screen role selector
+
 │   │   ├── PatientDashboard.jsx   # Patient features and layout
+
 │   │   └── CaretakerDashboard.jsx # Caretaker features and layout
+
 │   ├── pages/
+
 │   │   └── Home.jsx               # Main route handler (optional if App handles routes)
+
 │   ├── App.css
+
 │   ├── App.js
+
 │   └── index.js
+
 ├── .gitignore
+
 ├── package.json
+
 └── README.md
+
 
 
 # Getting Started with Create React App
