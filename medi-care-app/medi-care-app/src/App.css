@@ -1,0 +1,20 @@
+/* Add your CSS styles here */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4faff;
+  margin: 0;
+  padding: 1rem;
+}
+.roles { display: flex; gap: 2rem; justify-content: center; }
+.role-card { padding: 2rem; border-radius: 10px; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+.role-card button { margin-top: 1rem; }
+.metrics { display: flex; gap: 2rem; justify-content: center; margin: 1rem 0; }
+.card { background: white; padding: 1.5rem; margin: 1rem 0; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); }
+.tabs { display: flex; gap: 1rem; justify-content: center; margin: 1rem 0; }
+.tabs .active { border-bottom: 2px solid #007bff; }
+.badge { padding: 0.3rem 0.6rem; background: #ffcccc; border-radius: 20px; }
+.progress-bar { background: #ddd; height: 15px; border-radius: 10px; }
+.progress-fill { background: #2ecc71; height: 100%; border-radius: 10px; }
+.calendar-day { display: inline-block; margin: 2px; padding: 5px 10px; border-radius: 5px; }
+.today { background-color: #d1ecf1; }
+.missed { background-color: #f8d7da; }
