@@ -1,7 +1,7 @@
 🩺 MediCare Companion – React App
 MediCare Companion is a role-based medication management system built with React. Patients can track their medications and upload proof, while caretakers can monitor adherence, view reports, and send reminders.
 
-📦 Tech Stack
+###📦 Tech Stack
 React 18+
 JavaScript
 React Router DOM
@@ -9,7 +9,7 @@ CSS Modules (or regular CSS)
 🚀 Live Demo
 Live Demo Link (coming soon)
 
-🧱 Folder Structure
+### Folder Structure
 
 medicare-companion/ 
 
